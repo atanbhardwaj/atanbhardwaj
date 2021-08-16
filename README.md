@@ -35,7 +35,7 @@
 <!-- </p> -->
 
 <!-- ##  My Github Stats -->
-  <p align="center" style="display: inline-block; ">
+  <!-- <p align="center" style="display: inline-block; ">
   <br/>
     <a href="https://github.com/atanbhardwaj/github-readme-stats"></a>
 </p>
@@ -45,7 +45,7 @@
   <a href="https://github.com/atanbhardwaj/github-readme-stats"></a>
 </p>
 
-  <br/>
+  <br/> -->
 
 
 <a href="https://github.com/atanbhardwaj/github-readme-activity-graph"><img alt="Atan Bhardwaj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atanbhardwaj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
