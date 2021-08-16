@@ -20,28 +20,25 @@
 <!-- - 📫 How to reach me **atanbhardwaj@gmail.com** -->
 
 
-<p align="center">
+<p align="center" style="display: inline-block;">
     <a href="https://github.com/atanbhardwaj/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" width="50%" alt="Atan Bhardwaj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atanbhardwaj&theme=synthwave&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" width="100%" alt="Atan Bhardwaj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atanbhardwaj&theme=synthwave&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <!-- ##  My Github Stats -->
-  <p align="center">
+  <p align="center" style="display: inline-block; ">
   <br/>
-    <a href="https://github.com/atanbhardwaj/github-readme-stats"><img width ="50%" alt="Atan Bhardwaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atanbhardwaj&show_icons=true&count_private=true&theme=outrun&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/atanbhardwaj/github-readme-stats"><img width ="100%" alt="Atan Bhardwaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atanbhardwaj&show_icons=true&count_private=true&theme=outrun&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/atanbhardwaj/github-readme-stats"><img width="50%" alt="Atan Bhardwaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atanbhardwaj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/atanbhardwaj/github-readme-stats"><img width="40%" alt="Atan Bhardwaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atanbhardwaj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
   <br/>
 
-
-<br/>
-<br/>
 
 <a href="https://github.com/atanbhardwaj/github-readme-activity-graph"><img alt="Atan Bhardwaj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atanbhardwaj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
