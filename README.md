@@ -9,7 +9,7 @@
 
 - 🔭 I'm in the final year of my undergrad in Computer Science with a specialization in Machine Learning & Artificial Intelligence.
 
-- 🌱 I love problem solving and exploring **Data Structures and Algorithms.**
+- 🌱 I enjoy problem solving and exploring **Data Structures and Algorithms.**
 
 - 👯 Open for collaborations on **Web Development and Machine Learning** ideas.
 
