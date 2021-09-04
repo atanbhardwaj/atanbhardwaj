@@ -1,4 +1,4 @@
-<a href="#">
+<!-- <a href="#">
 <p align="center"><img width="25%" height="auto" src="./vegita.gif" height="175px"/>
 </p></a>
 
@@ -177,3 +177,4 @@
 <!-- <a href="https://github.com/atanbhardwaj?tab=followers"><img src="https://img.shields.io/github/followers/atanbhardwaj?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+ -->
