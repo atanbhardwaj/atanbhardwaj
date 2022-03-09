@@ -15,7 +15,7 @@
 
 - ⚡ **I like to talk about cosmology**
 
-- 👨‍💻 You may know more about me **[HERE](https://atanbhardwaj.github.io/whoisatan)**
+<!-- - 👨‍💻 You may know more about me **[HERE](https://atanbhardwaj.github.io/whoisatan)** -->
 
 <!-- - 📫 How to reach me **atanbhardwaj@gmail.com** -->
 
